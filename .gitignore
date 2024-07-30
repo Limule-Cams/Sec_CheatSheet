@@ -1,0 +1,3 @@
+assembleur_nasm/src/*.out
+assembleur_nasm/src/*.o
+*.vscode
